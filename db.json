@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "name": "gsdfg",
+      "age": 1,
+      "phone": 1
+    },
+    {
+      "name": "dfsd",
+      "age": "312",
+      "phone": "321",
+      "id": 2
+    },
+    {
+      "name": "fds",
+      "age": "321",
+      "phone": "543",
+      "id": 3
+    },
+    {
+      "name": "fds",
+      "age": "3215346546",
+      "phone": "321321312",
+      "id": 4
+    },
+    {
+      "name": "dfd",
+      "age": "333",
+      "phone": "222",
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
